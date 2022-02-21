@@ -1,0 +1,49 @@
+body{
+background-image: url('https://bit.ly/3GMFMlC');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+height:100%;
+width:100%;
+color: white;
+
+}
+
+form{
+text-align: center;
+color: white;
+font-weight: bold;
+
+}
+
+h1{
+text-align: center;
+color: white;
+
+}
+
+
+input{
+background-color: #343A40;
+color: white;
+
+}
+
+.button{
+width: 250px;
+font-weight: bold;
+
+
+}
+
+#table{
+border: black 1px solid;
+					
+}
+
+img{
+width: 450px;
+height: 400px;
+
+}
+
